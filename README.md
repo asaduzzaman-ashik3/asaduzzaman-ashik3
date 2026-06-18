@@ -41,14 +41,14 @@
 | 💼 Professional Focus | 🚀 Current Role | 📍 Location |
 |:---:|:---:|:---:|
 | Frontend & Mobile Development | Junior Software Engineer @ Wafi Solutions | Dhaka, Bangladesh |
-| Flutter · Angular · React | 1+ Year Production SaaS Experience | Open to Opportunities |
+| Flutter · Angular · React | 1+ Year Experience | Open to Opportunities |
 <br>
 
 </div>
 
 <br>
 
-## `$ cat experience.log`
+## `$ 𝚌𝚊𝚝 experience.log`
 
 <div align="center">
 
