@@ -32,6 +32,8 @@
 
 ## `$ whoami`
 
+<br>
+
 > Frontend & Mobile Application Developer specializing in Flutter, Angular, React, and Next.js. Experienced in building scalable SaaS platforms, cross-platform mobile applications, and modern web solutions with a strong focus on performance, responsiveness, clean architecture, and exceptional user experience.
 
 <div align="center">
@@ -60,8 +62,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br>
-
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -69,8 +69,6 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square)
 ![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
-
-<br>
 
 ### Frontend
 
@@ -82,8 +80,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square)
 ![ABP Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=flat-square)
 
-<br>
-
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -92,8 +88,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-
-<br>
 
 ### Tools
 
