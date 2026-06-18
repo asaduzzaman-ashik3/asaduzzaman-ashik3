@@ -30,7 +30,7 @@
 
 <br>
 
-## `$ whoami`
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=WHOAMI" />
 
 <br>
 
