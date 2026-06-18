@@ -30,7 +30,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=WHOAMI" />
+## 👤 𝚆𝙷𝙾 𝙰𝙼 𝙸
 
 <br>
 
@@ -48,7 +48,7 @@
 
 <br>
 
-## `$ 𝚌𝚊𝚝 experience.log`
+## 🚀 𝙴𝚇𝙿𝙴𝚁𝙸𝙴𝙽𝙲𝙴 𝙻𝙾𝙶
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Contributed to enterprise-level applications while learning Angular, Blazor, and
 
 <br>
 
-## `$ ls tech-stack/`
+## ⚙️ 𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Contributed to enterprise-level applications while learning Angular, Blazor, and
 
 <br>
 
-## `$ git log --stat`
+## 📈 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
 <div align="center">
 
