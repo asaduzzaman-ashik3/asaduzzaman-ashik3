@@ -36,18 +36,6 @@
 
 > Frontend & Mobile Application Developer specializing in Flutter, Angular, React, and Next.js. Experienced in building scalable SaaS platforms, cross-platform mobile applications, and modern web solutions with a strong focus on performance, responsiveness, clean architecture, and exceptional user experience.
 
-<div align="center">
-
-| 💼 Professional Focus | 📍 Location |
-|:---:|:---:|:---:|
-| Frontend & Mobile Development | Dhaka, Bangladesh |
-| Flutter · Angular · React | Open to Opportunities |
-
-<br>
-
-</div>
-
-
 <br>
 
 ## `$ ls tech-stack/`
