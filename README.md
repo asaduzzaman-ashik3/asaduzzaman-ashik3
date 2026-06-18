@@ -6,7 +6,7 @@
 
 # 𝘼𝙎𝘼𝘿𝙐𝙕𝙕𝘼𝙈𝘼𝙉 𝘼𝙎𝙃𝙄𝙆
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Mobile+Application+Developer;Web+Application+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Mobile+Application+Developer;Flutter+Developer;Angular+Developer;SaaS+Application+Developer" />
 
 <br>
 
@@ -35,6 +35,71 @@
 <br>
 
 > Frontend & Mobile Application Developer specializing in Flutter, Angular, React, and Next.js. Experienced in building scalable SaaS platforms, cross-platform mobile applications, and modern web solutions with a strong focus on performance, responsiveness, clean architecture, and exceptional user experience.
+
+<div align="center">
+
+| 💼 Professional Focus | 🏆 Achievement | 📍 Location |
+|:---:|:---:|:---:|
+| Frontend & Mobile Development | Programming Hero Graduate | Dhaka, Bangladesh |
+| Flutter · Angular · React | Production SaaS Experience | Open to Opportunities |
+<br>
+
+</div>
+
+<br>
+
+## `$ cat experience.log`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚀 Junior Software Engineer
+
+**Wafi Solutions** · Full-time · Onsite  
+📍 Mohakhali DOHS, Dhaka, Bangladesh  
+🗓️ Jul 2025 — Present
+
+Developing and maintaining production-grade mobile and web applications with a strong focus on performance, scalability, and seamless user experience. Building cross-platform mobile applications and modern SaaS solutions while integrating RESTful APIs and enhancing application functionality. Collaborating with teams to deliver stable, responsive, and production-ready applications.
+
+**Technologies**
+
+`Flutter` · `Dart` · `Riverpod` · `Dio` · `React Native` · `React` · `Next.js` · `Angular` · `TypeScript` · `ABP Framework` · `Strapi` · `Tailwind CSS` · `Bootstrap`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+### 💼 Frontend Software Engineer Intern
+
+**Wafi Solutions** · Internship · Remote  
+📍 Mohakhali DOHS, Dhaka, Bangladesh  
+🗓️ Apr 2025 — Jun 2025
+
+Contributed to enterprise-level applications while learning Angular, Blazor, and enterprise development workflows. Built and enhanced features, integrated APIs, fixed issues, and collaborated with senior engineers to deliver scalable and maintainable solutions.
+
+**Technologies**
+
+`Angular` · `Blazor` · `TypeScript` · `GitHub` · `ABP Framework`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+
+<br>
 
 ## `$ ls tech-stack/`
 
