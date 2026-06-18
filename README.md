@@ -41,11 +41,10 @@
 | Frontend & Mobile Development | Programming Hero Graduate | Dhaka, Bangladesh |
 | Flutter · Angular · React | Production SaaS Experience | Open to Opportunities |
 
-</div>
-
 <br>
 
-## `$ cat core-skills.txt`
+</div>
+
 
 <br>
 
@@ -61,7 +60,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br><br>
+<br>
 
 ### Mobile Development
 
@@ -71,7 +70,7 @@
 ![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square)
 ![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
 
-<br><br>
+<br>
 
 ### Frontend
 
@@ -83,7 +82,7 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square)
 ![ABP Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=flat-square)
 
-<br><br>
+<br>
 
 ### Backend & Database
 
@@ -94,7 +93,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 
-<br><br>
+<br>
 
 ### Tools
 
@@ -117,7 +116,7 @@
 
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=asaduzzaman-ashik3&hide_border=true&background=0D1117&stroke=58a6ff20&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8892b0&dates=8892b0" />
 
-<br><br>
+<br>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=asaduzzaman-ashik3&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
 
