@@ -6,7 +6,7 @@
 
 # 𝘼𝙎𝘼𝘿𝙐𝙕𝙕𝘼𝙈𝘼𝙉 𝘼𝙎𝙃𝙄𝙆
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Mobile+Application+Developer;Flutter+Developer;Angular+Developer;SaaS+Application+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Mobile+Application+Developer;Web Application Developer" />
 
 <br>
 
