@@ -14,9 +14,9 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/asaduzzamanashik372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/asaduzzaman-ashik3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:ashikhossain372@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <a href="https://asaduzzaman-ashik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
 
 <br>
