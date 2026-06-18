@@ -38,10 +38,10 @@
 
 <div align="center">
 
-| 💼 Professional Focus | 🏆 Achievement | 📍 Location |
+| 💼 Professional Focus | 🚀 Current Role | 📍 Location |
 |:---:|:---:|:---:|
-| Frontend & Mobile Development | Programming Hero Graduate | Dhaka, Bangladesh |
-| Flutter · Angular · React | Production SaaS Experience | Open to Opportunities |
+| Frontend & Mobile Development | Junior Software Engineer @ Wafi Solutions | Dhaka, Bangladesh |
+| Flutter · Angular · React | 1+ Year Production SaaS Experience | Open to Opportunities |
 <br>
 
 </div>
@@ -64,9 +64,21 @@
 
 Developing and maintaining production-grade mobile and web applications with a strong focus on performance, scalability, and seamless user experience. Building cross-platform mobile applications and modern SaaS solutions while integrating RESTful APIs and enhancing application functionality. Collaborating with teams to deliver stable, responsive, and production-ready applications.
 
-**Technologies**
+#### Technologies
 
-`Flutter` · `Dart` · `Riverpod` · `Dio` · `React Native` · `React` · `Next.js` · `Angular` · `TypeScript` · `ABP Framework` · `Strapi` · `Tailwind CSS` · `Bootstrap`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=flat-square)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
 </tr>
@@ -86,9 +98,13 @@ Developing and maintaining production-grade mobile and web applications with a s
 
 Contributed to enterprise-level applications while learning Angular, Blazor, and enterprise development workflows. Built and enhanced features, integrated APIs, fixed issues, and collaborated with senior engineers to deliver scalable and maintainable solutions.
 
-**Technologies**
+#### Technologies
 
-`Angular` · `Blazor` · `TypeScript` · `GitHub` · `ABP Framework`
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=flat-square)
 
 </td>
 </tr>
