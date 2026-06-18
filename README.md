@@ -38,10 +38,10 @@
 
 <div align="center">
 
-| 💼 Professional Focus | 🏆 Achievement | 📍 Location |
+| 💼 Professional Focus | 📍 Location |
 |:---:|:---:|:---:|
-| Frontend & Mobile Development | Programming Hero Graduate | Dhaka, Bangladesh |
-| Flutter · Angular · React | Production SaaS Experience | Open to Opportunities |
+| Frontend & Mobile Development | Dhaka, Bangladesh |
+| Flutter · Angular · React | Open to Opportunities |
 
 <br>
 
