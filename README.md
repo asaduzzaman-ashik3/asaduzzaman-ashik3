@@ -1,127 +1,204 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:1a1b2e&height=160&section=header&text=&fontSize=0&reversal=true" width="100%"/>
 
 <br>
 
-# &nbsp; 𝘼𝙎𝘼𝘿𝙐𝙕𝙕𝘼𝙈𝘼𝙉 𝘼𝙎𝙃𝙄𝙆 &nbsp;
+# 𝘼𝙎𝘼𝘿𝙐𝙕𝙕𝘼𝙈𝘼𝙉 𝘼𝙎𝙃𝙄𝙆
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Mobile+Application+Developer;Web+Application+Developer" />
-
-<br>
-
-<a href="https://linkedin.com/in/asaduzzamanashik372"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/asaduzzaman-ashik3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:ashikhossain372@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://asaduzzaman-ashik-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;Mobile+Application+Developer;Flutter+Developer;Angular+Developer;SaaS+Application+Developer" />
 
 <br>
+
+<a href="https://linkedin.com/in/asaduzzamanashik372">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/asaduzzaman-ashik3">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:ashikhossain372@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://asaduzzaman-ashik-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" />
+</a>
 
 </div>
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     AT A GLANCE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## `$ whoami`
 
-> Results-driven Full-Stack Web Developer focused on building highly responsive, performant, and user-centric applications. Proficient in engineering dynamic MERN architectures and scalable backend ecosystems — certified via Programming Hero Batch 10 and based in Dhaka, Bangladesh.
+> Frontend & Mobile Application Developer specializing in Flutter, Angular, React, and Next.js. Experienced in building scalable SaaS platforms, cross-platform mobile applications, and modern web solutions with a strong focus on performance, responsiveness, clean architecture, and exceptional user experience.
 
 <div align="center">
 
-| :briefcase: Professional Focus | :trophy: Key Milestone | :round_pushpin: Location |
+| 💼 Professional Focus | 🏆 Achievement | 📍 Location |
 |:---:|:---:|:---:|
-| Full-Stack Web Development | Programming Hero Graduate | Dhaka, Bangladesh |
-| React.js / Next.js / Node.js | Complete Course - Batch 10 | Open to Opportunities |
+| Frontend & Mobile Development | Programming Hero Graduate | Dhaka, Bangladesh |
+| Flutter · Angular · React | Production SaaS Experience | Open to Opportunities |
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ ls tech-stack/`
+## `$ cat core-skills.txt`
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-**:gear: Backend & Cloud**
+<td align="center" width="25%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=google-cloud&logoColor=white)
+### 📱 Mobile
 
-</td>
-<td align="center" width="33%">
-
-**:art: Frontend & UI**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+Flutter  
+React Native  
+Expo  
+Riverpod  
+Dio  
+Android  
+iOS
 
 </td>
-<td align="center" width="33%">
 
-**:file_cabinet: Data & Dev Tools**
+<td align="center" width="25%">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=flat-square&logo=netlify&logoColor=white)
+### 🌐 Frontend
+
+Angular  
+React  
+Next.js  
+TypeScript  
+JavaScript  
+Tailwind CSS  
+Bootstrap  
+Framer Motion  
+ABP Framework
 
 </td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+Node.js  
+Express.js  
+MongoDB  
+Firebase  
+Supabase  
+Strapi  
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Expertise
+
+SaaS Development  
+Responsive Design  
+API Integration  
+State Management  
+Performance Optimization  
+Scalable Architecture  
+Cross-Platform Apps
+
+</td>
+
 </tr>
 </table>
-
-<br>
-
-**Also proficient in:** `HTML5` · `CSS3` · `ES6+` · `State Management` · `CRUD Architectures` · `JSON Web Tokens (JWT)` · `Client-Side Routing` · `Vercel` · `VS Code`
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## `$ ls tech-stack/`
+
+<div align="center">
+
+### Languages
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br><br>
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0175C2?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+
+<br><br>
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-5C2D91?style=flat-square)
+
+<br><br>
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+
+<br><br>
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</div>
+
+<br>
 
 ## `$ git log --stat`
 
 <div align="center">
 
-<br>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=asaduzzaman-ashik3&hide_border=true&background=0D1117&stroke=58a6ff20&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8892b0&dates=8892b0" />
 
-<img width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=0D1117&stroke=58a6ff20&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8892b0&dates=8892b0" />
+<br><br>
 
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=asaduzzaman-ashik3&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" />
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ---
+
+### Thanks for visiting 👋
+
+Building scalable web applications, cross-platform mobile apps, and production-grade SaaS solutions.
+
+</div>
