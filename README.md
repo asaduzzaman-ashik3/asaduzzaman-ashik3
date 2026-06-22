@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:1a1b2e&height=160&section=header&text=&fontSize=0&reversal=true" width="100%"/>
+<img src="https://i.ibb.co/dsR8J964/Chat-GPT-Image-Jun-22-2026-05-26-40-PM.png" width="100%"/>
 
 <br>
 
